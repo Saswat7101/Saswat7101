@@ -24,13 +24,13 @@
 
 ## Languages and Tools 📚
 
-<img align="left" alt="Java" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/java.png" />
-<img align="left" alt="HTML" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/html%20(1).png" />
-<img align="left" alt="CSS" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/css-3.png" />
-<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Dart" width="46px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt="Flutter" width="46px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt="Firebase" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/firebase.png" />
+<a href="https://www.java.com/en/"><img align="left" alt="Java" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/java.png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" alt="HTML" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/html%20(1).png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/css-3.png" /></a>
+<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
+<a href="https://dart.dev/"><img align="left" alt="Dart" width="46px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /></a>
+<a href="https://flutter.dev/"><img align="left" alt="Flutter" width="46px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></a>
+<a href="https://firebase.google.com/"><img align="left" alt="Firebase" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/firebase.png" /></a>
 <br>
 <br>
 <br>
