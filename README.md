@@ -1,16 +1,19 @@
-### Hola, I'm Saswat Mohanty 👋
+### Hola Amigo 👋
 
+# I'm Saswat Mohanty
 
-Here are some ideas to get you started:
+### About Me👀
 
-- 🔭 I’m currently working on Portfolio website
+- 👨‍🎓 I'm currently a B.Tech undergrad at [ITER, SOA University](https://www.soa.ac.in/iter).
+- 🔭 I’m currently working on [Portfolio website](https://saswat7101.github.io/Portfolio/).
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: mohantysaswat154@gmail.com
+- 😄 Pronouns: He/His/Him/Signore
+- ⚡ Fun fact: If I could have any superpower, it would be that I could eat as much as I want🤤 and still it doesn't make me fat😔
+
+## Reach out to me 🤝
+
+
 
 ---
 
