@@ -5,6 +5,7 @@
 ### About Me👀
 
 - 👨‍🎓 I'm currently a B.Tech undergrad at [ITER, SOA University](https://www.soa.ac.in/iter).
+- 👨‍⚖️ I'm currently the Co-Lead of [Hack Club ITER](https://www.instagram.com/hackclubiter/).
 - 🔭 I’m currently working on [Portfolio website](https://saswat7101.github.io/Portfolio/).
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: mohantysaswat154@gmail.com
