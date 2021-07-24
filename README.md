@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Portfolio website](https://saswat7101.github.io/Portfolio/).
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: mohantysaswat154@gmail.com
-- 😄 Pronouns: He/His/Him/Signore
+- 😄 Pronouns: He/His/Him/Signore🧑
 - ⚡ Fun fact: If I could have any superpower, it would be that I could eat as much as I want🤤 and still it doesn't make me fat😔
 
 ## Reach out to me 🤝
@@ -16,7 +16,11 @@
 
 
 ---
+## Github stats
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat7101&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saswat7101&count_private=true&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saswat7101&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
