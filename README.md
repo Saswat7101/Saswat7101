@@ -21,9 +21,21 @@
 <br>
 <br>
 
----
+## Languages and Tools 📚
 
-# <p align="center">Github stats</p>
+<img align="left" alt="Java" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/java.png" />
+<img align="left" alt="HTML" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/html%20(1).png" />
+<img align="left" alt="CSS" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/css-3.png" />
+<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Dart" width="46px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<img align="left" alt="Flutter" width="46px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img align="left" alt="Firebase" width="46px" src="https://github.com/Saswat7101/Saswat7101/blob/main/firebase.png" />
+<br>
+<br>
+<br>
+<br>
+
+<h1 align="center">Github stats</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat7101&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
