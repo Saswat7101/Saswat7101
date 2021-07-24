@@ -14,7 +14,7 @@
 
 ## Reach out to me 🤝
 
-<img align="left" alt="LinkedIn" width="42px" src="https://github.com/Saswat7101/Saswat7101/blob/main/linkedin.png" />
+<a href="https://www.linkedin.com/in/saswat-mohanty-3460321b4/" target="_blank"><img align="left" alt="LinkedIn" width="42px" src="https://github.com/Saswat7101/Saswat7101/blob/main/linkedin.png" /></a>
 <img align="left" alt="Twitter" width="42px" src="https://github.com/Saswat7101/Saswat7101/blob/main/twitter.png" />
 <img align="left" alt="Instagram" width="42px" src="https://github.com/Saswat7101/Saswat7101/blob/main/instagram.png" />
 <img align="left" alt="Facebook" width="42px" src="https://github.com/Saswat7101/Saswat7101/blob/main/facebook.png" />
