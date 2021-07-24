@@ -1,4 +1,4 @@
-### Hola Amigo 👋
+## Hola Amigo 👋
 
 # I'm Saswat Mohanty
 
