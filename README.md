@@ -1,4 +1,4 @@
- <h2 >Hola Amigo 👋 </h2>
+ ### Hola Amigo 👋
 
 # I'm Saswat Mohanty
 
