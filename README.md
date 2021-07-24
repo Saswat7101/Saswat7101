@@ -19,7 +19,7 @@
 ## Github stats
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat7101&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saswat7101&count_private=true&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
 
