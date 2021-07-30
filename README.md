@@ -42,8 +42,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswat7101&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="saswat7101" /></p>
 <br>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=saswat7101&show_icons=true&locale=en&theme=yeblu" alt="saswat7101" /></p>
 <br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswat7101&theme=yeblu" alt="saswat7101" /></p>
 <br>
 
