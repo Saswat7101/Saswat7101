@@ -5,10 +5,9 @@
 
 ### About Me👀
 
-- 👨‍🎓 I'm currently a B.Tech undergrad at [ITER, SOA University](https://www.soa.ac.in/iter).
-- 👨‍⚖️ I'm currently the Co-Lead of [Hack Club ITER](https://www.instagram.com/hackclubiter/).
-- 🔭 I’m currently working on [Portfolio website](https://saswat7101.github.io/Portfolio/).
-- 🌱 I’m currently learning [JavaScript](https://www.javascript.com/)
+- 👨‍🎓 I'm currently a B.Tech graduate from [ITER, SOA University](https://www.soa.ac.in/iter).
+- 🔭 I’m currently working on **Data Analysis Projects**.
+- 🌱 I’m currently learning **Data Science**.
 - 📫 How to reach me: mohantysaswat154@gmail.com
 - 😄 Pronouns: He/His/Him/Signore🧑
 - ⚡ Fun fact: If I could have any superpower, it would be that I could eat as much as I want🤤 and still it doesn't make me fat😔
